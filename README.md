@@ -24,7 +24,7 @@ What I would have improve if I have more chance
 I would have used action server (useActionState) for more input validation, and more.
 I would have used a third party database for well structure query data, scalability and load-balancing.
 I would also been able to implement all the bonus tasks.
-I would have used external database such as postgreSQL, MongoDB, or SQLite(better-sqlite3) which allows parallel fetching of data at both development and production environment instead of db.json database file system which runs pertect on development environment, but not allowed by Next.js in the production environment, because it involves making request using localhost url.
+I would have used external database such as postgreSQL, MongoDB, or SQLite(better-sqlite3) which allows parallel fetching of data at both in development and production environment instead of db.json database file system which no enough scalling for thousand requests and not well secured.
 I would have also used https to fetch for securty purpose. 
 I would have used xss(cross-site-scripting) to prevent cross-site attackers.
 
