@@ -3,10 +3,11 @@
 import FullJobDetails from "@/components/jobLists/FullJobDetails"
 import { notFound, redirect } from "next/navigation"
 
+const baseURL = process.env.NEXT_PUBLIC_BASE_URL;
 export default async function JobDetailsPage({params}){
   const {jobSlug} = await params;
-
-  const job = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/postjobs/${jobSlug}`);
+  
+  const job = await fetch(`${baseURL}/api/postjobs/${jobSlug}`);
   
   if(!job.ok){
     notFound(),
