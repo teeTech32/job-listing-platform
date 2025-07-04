@@ -26,7 +26,7 @@ export default function PostJob(){
       ...inputData, [e.target.id]: e.target.value
     })
   }
-  async function handleOnSubmi(e){
+  async function handleOnSubmit(e){
     try{
       e.preventDefault()
       setIsPending(true)
@@ -53,6 +53,17 @@ export default function PostJob(){
           body: JSON.stringify(jobDetails),
           headers: {"Content-Type":"application/json"}
         })
+        setInputData({
+        companyname: '',
+        jobtitle: '',
+        location: '',
+        salaryrange: '',
+        jobtype: '',
+        description: '',
+        requirements: '',
+        benefits: '',
+        howtoapply: ''
+      });
         router.push('/')
       }
     }catch(error){
@@ -71,7 +82,7 @@ export default function PostJob(){
             </h1>
           </header>
           <main className="relative mx-10 mb-50">
-            <form onSubmit={handleOnSubmi} >
+            <form onSubmit={handleOnSubmit} >
               <div className="flex flex-col md:flex-row">
                 <p className="mx-5  my-2">
                   <label htmlFor="companyName" className="text-gray-400 text-xs md:text-sm xl:text-lg font-semibold">COMPANY NAME</label>
