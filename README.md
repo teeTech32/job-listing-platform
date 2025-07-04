@@ -19,10 +19,12 @@ I decided to also used http deu to time limit and a local database, instead of h
 I decided to used fs(file system) and path to read and write into the json database system.
 I also decided to used toLowerCase method on both the input and value name from the array for smooth search experience.
 
+
 What I would have improve if I have more chance
 I would have used action server (useActionState) for more input validation, and more.
 I would have used a third party database for well structure query data, scalability and load-balancing.
 I would also been able to implement all the bonus tasks.
-I would have also used https to fetch for securty purpose 
+I would have used external database such as postgreSQL, MongoDB, or SQLite(better-sqlite3) which allows parallel fetching of data at both development and production environment instead of db.json database file system which runs pertect on development environment, but not allowed by Next.js in the production environment, because it involves making request using localhost url.
+I would have also used https to fetch for securty purpose. 
 I would have used xss(cross-site-scripting) to prevent cross-site attackers.
 
