@@ -13,7 +13,7 @@ export default function PostJob(){
     location:'',
     salaryrange:'',
     jobtype:'',
-    discription:'',
+    description:'',
     requirements:'',
     benefits:'',
     howtoapply:''
