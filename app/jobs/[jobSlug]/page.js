@@ -6,7 +6,7 @@ import { notFound, redirect } from "next/navigation"
 export default async function JobDetailsPage({params}){
   const {jobSlug} = await params;
 
-  const job = await fetch(`http://localhost:3000/api/postjobs/${jobSlug}`)
+  const job = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api/postjobs/${jobSlug}`);
   
   if(!job.ok){
     notFound(),
