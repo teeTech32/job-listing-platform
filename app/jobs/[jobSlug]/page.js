@@ -3,7 +3,7 @@
 import FullJobDetails from "@/components/jobLists/FullJobDetails"
 import { notFound, redirect } from "next/navigation"
 
-const baseURL = process.env.NEXT_PUBLIC_BASE_URL;
+const baseURL = process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000";
 export default async function JobDetailsPage({params}){
   const {jobSlug} = await params;
   
