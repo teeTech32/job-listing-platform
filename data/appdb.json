@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "companyname": "NQB8 Ltd",
+    "jobtitle": "Frontend Developer",
+    "location": "Remote",
+    "salaryrange": "#200,000-500,000",
+    "jobtype": "Fulltime",
+    "description": "We are looking for a talented and detail-oriented Frontend Developer to join our team. You will be responsible for translating design wireframes into high-quality code and building intuitive, responsive, and engaging user interfaces.",
+    "requirements": "1. 2-3 years of experince in front-end development, 2. Strong proficient in NextJS, Tailwind, Javascript, 3. Experience building and responsive, user-friendly, and high-performance web applications, 4. Familarity with REST APIs and modern development workflows(Git, CI/CD), 5. Familarity with state management tools(e.g: Redux, Vuex, or similar)",
+    "benefits": "Flexible remote work setup, Opportunity to shape early product decisions and Support",
+    "howtoapply": "Send your CVs and Potfolio link to @timothy.com"
+  },
+  {
+    "id": 2,
+    "companyname": "NQB8 Ltd",
+    "jobtitle": "Backend Developer",
+    "location": "On-Site",
+    "salaryrange": "#300,000-700,000",
+    "jobtype": "Fulltime",
+    "description": "We are looking for a talented and detail-oriented Backend Developer to join our team. You will be responsible for design backend APIs wireframes into high-quality code and building intuitive, strong authentication, and engaging user securty.",
+    "requirements": "1. 3-6 years of experince in back-end development, 2. Strong proficient in NodeJS, Python, PostgreSQL, 3. Experience building and responsive, user-friendly, and high-performance web applications, 4. Familarity with REST APIs and modern development workflows(Git, CI/CD), 5. Familarity with state management tools(e.g: Redux, Vuex, or similar)",
+    "benefits": "Flexible remote work setup, Opportunity to shape early product decisions and Support",
+    "howtoapply": "Send your CVs and Potfolio link to @timothy.com"
+  },
+  {
+    "id": 3,
+    "companyname": "TeeML Ltd",
+    "jobtitle": "Frontend Developer",
+    "location": "Hybrid",
+    "salaryrange": "#600,000-1,000,000",
+    "jobtype": "Fulltime",
+    "description": "We are looking for a talented and detail-oriented Frontend Developer to join our team. You will be responsible for translating design wireframes into high-quality code and building intuitive, responsive, and engaging user interfaces.",
+    "requirements": "1. 1-2 years of experince in front-end development, 2. Strong proficient in NextJS, Tailwind, Typecript, Figma, 3. Experience building and responsive, user-friendly, and high-performance web applications, 4. Familarity with REST APIs and modern development workflows(Git, CI/CD), 5. Familarity with state management tools(e.g: Redux, Vuex, or similar)",
+    "benefits": "Flexible remote work setup, Opportunity to shape early product decisions and Support",
+    "howtoapply": "Send your CVs and Potfolio link to timothy@gamil.com"
+  },
+  {
+    "companyname": "Langimee Ltd",
+    "jobtitle": "Senior Python Backend Developer",
+    "location": "On-Site",
+    "salaryrange": "#1000,000-1.500,000",
+    "jobtype": "FullTime",
+    "description": "We are looking for a Senior Python Backend Developer who is passionate about building scalable backend systems and delivering robust APIs. As a senior engineer, you’ll play a key role in designing the architecture, guiding best practices, and mentoring junior developers.",
+    "requirements": "5+ years of professional backend development experience in Python\n\nStrong experience with FastAPI, Django, or Flask\n\nProficiency in REST API design, versioning, and authentication\n\nStrong understanding of databases: PostgreSQL, MySQL, or MongoDB\n\nExperience with Docker, CI/CD pipelines, and cloud services (AWS, GCP, or Azure)\n\nFamiliarity with unit testing, TDD, and API testing frameworks (e.g., Pytest)",
+    "benefits": "Competitive salary and performance bonuses\n\nFlexible remote work setup\n\nPaid time off and wellness leave\n\nProfessional development budget\n\nOpportunity to influence key technical decisions and product architecture\n\nA collaborative, inclusive, and growth-focused team culture",
+    "howtoapply": "Send your resume, GitHub/portfolio links, and a brief cover letter to [your email address] with the subject line: Senior Python Backend Developer Application",
+    "id": 4
+  },
+  {
+    "companyname": "Global Venture ",
+    "jobtitle": "UX/UI Designer",
+    "location": "Hybrid",
+    "salaryrange": "#200,000-350000",
+    "jobtype": "Contract",
+    "description": "We’re looking for a creative and detail-oriented UX/UI Designer to join our product team. You’ll be responsible for designing intuitive, user-centered experiences across our web and mobile platforms. From concept to final pixel, your work will shape how users interact with our products.",
+    "requirements": "3+ years of experience in UX/UI design or related field\n\nStrong portfolio demonstrating end-to-end product design work (UX + UI)\n\nProficiency in tools like Figma, Sketch, Adobe XD, or Framer\n\nSolid understanding of design principles, layout, typography, and color theory\n\nExperience designing responsive interfaces for web and mobile\n\nStrong communication and collaboration skills\n\nComfortable working in an Agile or startup environment",
+    "benefits": "Competitive salary and bonuses\n\nFlexible work environment (remote/hybrid)\n\nPaid time off and wellness days\n\nLearning & development budget\n\nCollaborative and inclusive team culture\n\nOpportunity to shape the visual and functional direction of core products",
+    "howtoapply": "Send your resume and portfolio (Dribbble, Behance, personal site, or PDF) to [ademiDribble@gmail.com] with the subject line: UX/UI Designer Application – [Your Name]",
+    "id": 5
+  },
+  {
+    "companyname": "Snaarp Ltd",
+    "jobtitle": "Mobile Frontend Developer",
+    "location": "On-Site",
+    "salaryrange": "#500,000-750000",
+    "jobtype": "FullTime",
+    "description": "We’re looking for a talented and passionate Mobile Frontend Developer to join our growing product development team. You will be responsible for building intuitive, high-performance mobile user interfaces that deliver an exceptional experience to our users. You’ll work closely with designers, backend engineers, and product managers to bring our apps to life",
+    "requirements": "Bachelor's degree in Computer Science, Engineering, or related field (or equivalent experience).\n\n2+ years of experience in mobile app development with a focus on frontend technologies.\n\nProficiency in [React Native / Flutter / native iOS or Android development].\n\nStrong knowledge of JavaScript/TypeScript, Dart, Swift, or Kotlin (depending on stack).\n\nExperience working with RESTful APIs, mobile architecture patterns (e.g., MVVM, Redux), and mobile performance optimization.",
+    "benefits": "Competitive salary and benefits\n\nFlexible working hours and remote work options\n\nA collaborative and inclusive team culture\n\nOpportunities for professional growth and development",
+    "howtoapply": "Send your resume to snaarpltd@gmail.com",
+    "id": 6
+  },
+  {
+    "companyname": "AQO BAl Ltd",
+    "jobtitle": "Fullstack Developer",
+    "location": "On-Site",
+    "salaryrange": "#1000,000-1.500,000",
+    "jobtype": "FullTime",
+    "description": "We are looking for a talented Fullstack Developer with strong experience in Node.js and React (or Next.js) to join our development team. You'll be responsible for building scalable backend services and dynamic front-end interfaces that power our web applications.\n\nYou’ll work closely with product designers, engineers, and stakeholders to bring ideas to life using clean, maintainable, and scalable code.",
+    "requirements": "2+ years of professional experience with Node.js and JavaScript/TypeScript\n\nProficient in React.js or Next.js\n\nStrong understanding of REST APIs, JSON, HTTP\n\nExperience with relational or NoSQL databases (MongoDB, PostgreSQL, etc.)\n\nFamiliar with Git, CI/CD pipelines, and basic DevOps practices",
+    "benefits": "Competitive salary (based on experience)\n\nFlexible hours & remote work options\n\nHealth benefits / PTO / Equipment allowance (customize as needed)\n\nLearning & development budget",
+    "howtoapply": "Send your resume, GitHub, or portfolio to [email@company.com]\nInclude examples of recent projects or contributions if available.",
+    "id": 7
+  }
+]
