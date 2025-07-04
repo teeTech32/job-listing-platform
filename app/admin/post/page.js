@@ -48,7 +48,7 @@ export default function PostJob(){
           benefits: benefits,
           howtoapply: howtoapply
         }
-        await fetch("http://localhost:3000/api/postjobs",{
+        await fetch("/api/postjobs",{
           method: "POST",
           body: JSON.stringify(jobDetails),
           headers: {"Content-Type":"application/json"}
